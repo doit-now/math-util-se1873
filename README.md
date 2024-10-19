@@ -7,4 +7,7 @@
 * A CI (Continuous Integration) script using GitHub Actions
 * ...
 
+### Screen-shots
+![JUnit and Maven](https://github.com/doit-now/math-util-se1873/blob/main/screenshots/JUnit%20and%20Maven.png)
+
 #### &#169; 2024 giáo.làng 
